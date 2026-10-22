@@ -19,7 +19,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **ADS - Análise e Desenvolvimento de Sistemas**
-- 📚 Já estudei **C** e agora vou avançar para **HTML5, CSS, JavaScript, PHP, Banco de Dados e Python**
 - 🌱 Construindo minha base de programação através de desafios práticos
 - 🏆 Participo dos desafios de código da **DIO (Digital Innovation One)** para acelerar meu aprendizado
 - 💬 Aberto a trocar ideias sobre estudos, projetos e tecnologia
